@@ -1,0 +1,24 @@
+/* background repeat */
+div {
+  height: 300px;
+  color: white;
+}
+
+.big-img {
+  background: url(./big-image.jpg);
+  background-repeat: no-repeat;
+}
+.small-img {
+  background: url(./small-image.jpg);
+  background-repeat: repeat;
+
+  background-repeat: repeat-x;
+  background-repeat: repeat-y;
+  background-repeat: space;
+  background-repeat: round;
+  background-repeat: no-repeat;
+}
+.folder-img {
+  background: url(./images/folder-image.jpg);
+  background-repeat: no-repeat;
+}
