@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Tutorial</title>
+
+    <!-- styles -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CSS Tutorial</title>
+
+        <!-- styles -->
+        <link rel="stylesheet" href="styles.css" />
+      </head>
+      <body>
+        <div>
+          <p class="one">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime eos
+            inventore eius quos rem molestiae non! Nostrum, accusamus!
+            Molestias, nihil.
+          </p>
+          <p class="two">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat
+            veniam perferendis eos velit, aperiam officiis ipsum. Inventore
+            nostrum repellat illo!
+            <span class="special">hey i'm absolute</span> Lorem ipsum dolor, sit
+            amet consectetur adipisicing elit. Adipisci, porro!
+          </p>
+        </div>
+        <div class="container"></div>
+      </body>
+    </html>
+  </body>
+</html>
