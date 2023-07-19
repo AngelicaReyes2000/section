@@ -1,0 +1,20 @@
+/*  
+transform:trnslate(), scale()rotate(),skew()
+*/
+div {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
+.one {
+  background: red;
+  transform: rotate(20deg);
+}
+.two {
+  background: green;
+  transform: rotate(380deg);
+}
+.three {
+  background: blue;
+  transform: rotateX(90deg);
+}
