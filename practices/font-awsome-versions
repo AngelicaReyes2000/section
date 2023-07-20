@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Tutorial</title>
+    <!-- icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- styles -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <i class="fa-solid fa-house"></i>
+    <i class="fa-solid fa-mug-hot special"></i>
+    <i class="fas fa-home"></i>
+  </body>
+</html>
+
+<!-- /* .fa-solid {
+  font-size: 2rem;
+  color: red;
+} */
+.fa-house {
+  font-size: 2rem;
+  color: red;
+}
+.special {
+  font-size: 4rem;
+  color: blue;
+} -->
